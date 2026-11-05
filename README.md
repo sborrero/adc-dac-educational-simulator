@@ -12,7 +12,7 @@ transmission and reception chain.
 
 The following diagram illustrates the main stages of analog-to-digital and digital-to-analog conversion.
 
-![ADC and DAC conversion diagram](adc_dac_conversion_diagram.png)
+![ADC and DAC conversion diagram](digitalizacion_en.png)
 
 ## Features
 
