@@ -8,6 +8,12 @@ A Python educational application for visualizing analog-to-digital conversion
 (ADC), digital-to-analog conversion (DAC), and a complete digital
 transmission and reception chain.
 
+## ADC and DAC conversion process
+
+The following diagram illustrates the main stages of analog-to-digital and digital-to-analog conversion.
+
+![ADC and DAC conversion diagram](adc_dac_conversion_diagram.png)
+
 ## Features
 
 - **ADC workflow:** anti-aliasing, sampling, quantization, and binary encoding.
