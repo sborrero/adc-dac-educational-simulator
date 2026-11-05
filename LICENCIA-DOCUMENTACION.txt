@@ -1,0 +1,18 @@
+Licencia de la documentación y materiales didácticos
+
+© 2026 Santiago Borrero Ortiz.
+
+Salvo que se indique lo contrario, la documentación, explicaciones,
+esquemas y materiales didácticos de este proyecto se ofrecen bajo la
+licencia Creative Commons Atribución 4.0 Internacional (CC BY 4.0).
+
+Puedes compartir y adaptar estos materiales, incluso con fines comerciales,
+siempre que otorgues el crédito correspondiente, incluyas un enlace a la
+licencia e indiques si se han realizado cambios.
+
+Texto legal de la licencia:
+https://creativecommons.org/licenses/by/4.0/deed.es
+
+Esta licencia se aplica a la documentación y materiales didácticos,
+no al código fuente, que se distribuye bajo la licencia MIT indicada
+en el archivo LICENSE.
